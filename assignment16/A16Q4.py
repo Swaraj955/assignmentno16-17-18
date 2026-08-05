@@ -1,6 +1,6 @@
 def Display():
     for i in range(5):
-        print("Marvellous")
+        print("Marvellous Infosystem")
 
 def main():
     Display()
